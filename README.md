@@ -2,7 +2,6 @@
 ![.NET Core](https://github.com/JulioMelchorPinto/beaverNet.POS/workflows/.NET%20Core/badge.svg)
 
 # Point Of Sales
-#  ![beavernet](beaverNet.POS.WebApp/wwwroot/img/beaverNetLogo39px.png) beaverNet
 
 This is an implementation of a minimal Point of Sales in Microsoft ASP.NET Core 3.1,
 based on MVC architectural pattern using code first aproach with Entity Framework on
@@ -23,7 +22,7 @@ local machine using Microsoft SQL Database.
 
 1. Clone the repo
 ```
-    git clone https://github.com/JulioMelchorPinto/beaverNet.POS
+    git clone https://github.com/saifciit/POS-ASP.NET-MVC
 ```
 2. Change directory:
 ```
@@ -39,5 +38,3 @@ local machine using Microsoft SQL Database.
     ```
     dotnet dev-certs https --trust
     ```
-
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/beaverNet)]
